@@ -65,3 +65,60 @@
 	"Relogio.h"
 	"Botao.h"
 
+1586385028 source:c:\users\augus\desktop\cg_t2\gl_1_canvasglut\src\gl_canvas2d.cpp
+	"gl_canvas2d.h"
+	<GL/glut.h>
+
+1586557639 c:\users\augus\desktop\cg_t2\gl_1_canvasglut\src\gl_canvas2d.h
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+	<string.h>
+	<GL/glut.h>
+	<GL/freeglut_ext.h>
+
+1586385028 c:\users\augus\desktop\cg_t2\gl_1_canvasglut\include\gl\glut.h
+	"freeglut_std.h"
+
+1586385028 c:\users\augus\desktop\cg_t2\gl_1_canvasglut\include\gl\freeglut_std.h
+	<windows.h>
+	<EGL/egl.h>
+	<GLES/gl.h>
+	<GLES2/gl2.h>
+	<OpenGL/gl.h>
+	<OpenGL/glu.h>
+	<GL/gl.h>
+	<GL/glu.h>
+	<stdlib.h>
+
+1586385028 c:\users\augus\desktop\cg_t2\gl_1_canvasglut\include\gl\freeglut_ext.h
+	<stdarg.h>
+
+1586385028 source:c:\users\augus\desktop\cg_t2\gl_1_canvasglut\src\relogio.cpp
+	"Relogio.h"
+	<math.h>
+	<stdio.h>
+	<stdlib.h>
+
+1586385028 c:\users\augus\desktop\cg_t2\gl_1_canvasglut\src\relogio.h
+	"gl_canvas2d.h"
+
+1586569493 source:c:\users\augus\desktop\cg_t2\gl_1_canvasglut\src\main.cpp
+	<GL/glut.h>
+	<GL/freeglut_ext.h>
+	<stdio.h>
+	<list>
+	"gl_canvas2d.h"
+	"Circle.h"
+	"Quad.h"
+	"Botao.h"
+
+1586569128 c:\users\augus\desktop\cg_t2\gl_1_canvasglut\src\quad.h
+	"gl_canvas2d.h"
+
+1586385028 c:\users\augus\desktop\cg_t2\gl_1_canvasglut\src\botao.h
+	"gl_canvas2d.h"
+
+1586569510 c:\users\augus\desktop\cg_t2\gl_1_canvasglut\src\circle.h
+	"gl_canvas2d.h"
+
